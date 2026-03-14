@@ -7,6 +7,7 @@ A simple weather dashboard that fetches real-time weather data using the OpenWea
 
 
 ## Features
+- Users need their own API key
 - Search for a city
 - View current temperature
 - View weather condition
