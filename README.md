@@ -3,7 +3,7 @@
 A simple weather dashboard that fetches real-time weather data using the OpenWeather API.
 
 ## Live Demo
-[View the project here]((https://bliveweather-dashboard.netlify.app/))
+[https://bliveweather-dashboard.netlify.app/](url)
 
 ## Features
 - Search for a city
